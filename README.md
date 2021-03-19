@@ -1,1 +1,1 @@
-"# fivestar-application" 
+# fivestar-application
